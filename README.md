@@ -1,12 +1,50 @@
-# React + Vite
+📌 Quiz Scoreboard & Admin Panel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📖 Project Overview
+This project is a Quiz Scoreboard & Admin Panel, designed to help administrators log in, manage participant scores, and view leaderboard rankings efficiently. It includes:
 
-Currently, two official plugins are available:
+🔐 Secure Admin Login & Authentication
+📊 Leaderboard Sorting & Aggregation
+🔄 Dynamic Data Fetching with Error Handling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+🚀 Live Deployment
+🔗 Live URL: Quiz App
+📍 GitHub Repo: GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Features Implemented
+✅ Admin Login → Redirects to Scoreboard upon successful login
+✅ Leaderboard → Displays Rank, Participant ID, Total Scores, and Quizzes Attempted
+✅ Real-time API Fetching → Merges & sorts duplicate participant scores
+✅ Error Handling & UI Optimization → Ensures smooth user experience
+
+
+🛠 How to Run Locally
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/SANTHOSH0801/QUIZ-APP.git
+cd QUIZ-APP
+
+
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+
+
+Start the development server:
+
+bash
+Copy
+Edit
+npm start
+
+👥 Collaborators Added
+abhay_gond@vecros.com
+prime@vecros.com
