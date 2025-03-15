@@ -9,7 +9,9 @@ This project is a Quiz Scoreboard & Admin Panel, designed to help administrators
 
 
 🚀 Live Deployment
-🔗 Live URL: Quiz App
+
+🔗 Live URL: Quiz App [ONLY FRONTEND]
+📹 Functionality Video link:  https://drive.google.com/file/d/1DTDUK0PgG0o2PKOhgN2mWPMTuNdb2N2O/view?usp=sharing  
 📍 GitHub Repo: GitHub Repository
 
 ⚡ Features Implemented
